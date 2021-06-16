@@ -32,7 +32,7 @@ Data Dictionary – Variable and Description
 
 Dataset Size : 20640 rows x 10 columns
 
-**Questions to be answered with analysis :**
+## **Questions to be answered with analysis :**
 
 1. Build a model of housing prices to predict median house values in California using the provided dataset.
 
